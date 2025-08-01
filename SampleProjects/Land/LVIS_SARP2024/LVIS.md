@@ -1,0 +1,1 @@
+This is LVIS full-waveform LiDAR data collected during Sedgwick Reserve. This data will be used to evaluate vegetation structure, such as canopy height. Data available on Earthdata search.

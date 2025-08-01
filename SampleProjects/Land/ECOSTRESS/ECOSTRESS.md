@@ -1,0 +1,1 @@
+ECOSTRESS is a thermal radiometer on the ISS. Students will use L2 LST data and L3 ET data. Data is available on Earthdata search.

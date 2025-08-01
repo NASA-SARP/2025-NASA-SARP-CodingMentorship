@@ -1,0 +1,1 @@
+This netcdf file includes data acquired by AVIRIS-3, an airborne imaging spectrometer, over the Eaton fire (post-fire). Students will be using AVIRIS-3 L2A surface reflectance data to work with the spectra, such as through PCA and spectral mixture analysis to explore sub-pixel fractional cover of different materials. Data available on Earthdata search.
